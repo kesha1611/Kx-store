@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647454659893",
+    "project_id": "kriskx-fe35d",
+    "storage_bucket": "kriskx-fe35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647454659893:android:bad2c8eac00ebb8ac1287c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kriskx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647454659893-ont68j9sb3cr85256ij7088m4f233e7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVM18aPGOQbnguSgUKA8Jk24ShzZ28DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647454659893-ont68j9sb3cr85256ij7088m4f233e7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
